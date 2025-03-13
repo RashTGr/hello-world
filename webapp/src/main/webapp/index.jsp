@@ -10,11 +10,11 @@
     
     <label for="mobile"><b>Mobile number</b></label>
     <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
-    <br>
-    
+    <br><br>
+
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
+    <br><br>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
@@ -31,6 +31,5 @@
   </div>
 
    <h1> Thank you! Welcome! Happy Coding, Rashad. </h1>
-
   
 </form>
