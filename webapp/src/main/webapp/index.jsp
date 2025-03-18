@@ -30,6 +30,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you! Welcome! Happy Coding, Rashad. </h1>
+   <h1> Thank you! Welcome to CI/CD! Happy Coding, Rashad. </h1>
   
 </form>
