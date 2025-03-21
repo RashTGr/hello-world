@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <br><br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Email</b></label>
     <input type="text" placeholder="example@example.com" name="email" id="email" required>
     <br><br>
 
