@@ -12,6 +12,10 @@
     <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <br><br>
 
+    <label for="mobile"><b>Linkedin profile</b></label>
+    <input type="text" placeholder="Enter LinkedIn profile" name="mobile" id="linkedin" required>
+    <br><br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="example@example.com" name="email" id="email" required>
     <br><br>
@@ -30,6 +34,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you! Welcome to CI/CD! Happy Coding, Rashad. </h1>
+   <h1> Thank you! Welcome to CI/CD! Happy Coding, Raul. </h1>
   
 </form>
